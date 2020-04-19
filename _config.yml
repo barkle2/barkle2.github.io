@@ -17,10 +17,9 @@
 title: Un-Official Training Center of MOEL
 email: labor.barkle@gmail.com
 author: Dong-Hyeon Kim
-description: > # this means to ignore newlines until "baseurl:"
-  1Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 
+  Github to introduce IT technology and computer programming to colleagues in the Ministry of Employment and Labor  
+  고용노동부 동료들에게 IT기술과 컴퓨터 프로그래밍을 소개하기 위한 깃허브
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,14 +28,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://barkle2.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
+repo: "https://github.com/barkle2/barkle2.github.io"
+github_user: "barkle2"
+github_repo: "barkle2.github.io"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true
