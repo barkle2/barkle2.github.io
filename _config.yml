@@ -9,12 +9,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+<<<<<<< HEAD
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
 title: Unofficial Education Center of MOEL
+=======
+title: Unofficial Training Center of MOEL
+>>>>>>> d10fbc4e8ac0a9a4a09dd4ae15a50db247e6d909
 email: labor.barkle@gmail.com
 author: Dong-Hyeon Kim
 description: > # this means to ignore newlines until "baseurl:"
