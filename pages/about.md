@@ -15,5 +15,6 @@ IT 기술을 활용하면 고용노동부를 좀 더 효율적이고, 합리적�
 
 ## Contact / 연락처
 
-연락을 원하시면, 언제라도 [이메일](labor.barkle@gmail.com)을 보내주시기 바랍니다.   
-If you have anything to say, please send [e-mail](labor.barkle@gmail.com) at any time.
+If you have anything to say, please send [e-mail](mailto:labor.barkle@gmail.com) at any time.   
+연락을 원하시면, 언제라도 [이메일](mailto:labor.barkle@gmail.com)을 보내주시기 바랍니다.
+
