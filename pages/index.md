@@ -38,7 +38,7 @@ Here is a brief summary of the contents offered here.
   
 I would like to provide simple tips and recommend books for efficient work.  
   
-If you have a topic you would like to see further, please [email]<mailto:labor.barkle@gmail.com> or [leave a message]({{ site.repo }}/issues) on the bulletin board.  
+If you have a topic you would like to see further, please [email](mailto:labor.barkle@gmail.com) or [leave a message]({{ site.repo }}/issues) on the bulletin board.  
   
 이 곳에서 제공되는 자료들을 간단히 요약하면 다음과 같습니다.  
   
@@ -49,4 +49,4 @@ If you have a topic you would like to see further, please [email]<mailto:labor.b
   
 업무를 효율적으로 수행하기 위한 간단한 팁이나, 도서 추천도 할 생각입니다.  
 
-추가로 다뤘으면 좋겠다고 생각하는 주제가 있으면 [이메일]<mailto:labor.barkle@gmail.com>을 보내주시거나, [깃허브 게시판]({{ site.repo }}/issues)에 글을 남겨주십시오.
+추가로 다뤘으면 좋겠다고 생각하는 주제가 있으면 [이메일](mailto:labor.barkle@gmail.com)을 보내주시거나, [깃허브 게시판]({{ site.repo }}/issues)에 글을 남겨주십시오.
