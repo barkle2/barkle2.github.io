@@ -1,10 +1,10 @@
-- title: About
-  url: "docs/about"
-- title: News2
-  url: "docs/news"
-- title: Documentation
+- title: Category
   url: docs
   links:
+    - title: "News"
+      url: "news"
+    - title: "About"
+      url: "about"    
     - title: "Getting Started"
       url: "docs/getting-started"
       children:
@@ -21,7 +21,3 @@
           url: "docs/extras/example-quiz"
         - title: Tags Page
           url: "tags"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
