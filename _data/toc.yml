@@ -1,7 +1,8 @@
 - title: "News"
-  url: "news"
+  url: "news"  
+  
 - title: "About"
-  url: "about"
+  url: "about"  
 - title: Documentation
   url: docs
   links:
