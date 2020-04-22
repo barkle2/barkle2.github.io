@@ -4,7 +4,7 @@ title: Documentation
 permalink: /docs/
 ---
 
-# Documentation
+# Documentation1
 
 Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
 particular page.
