@@ -35,7 +35,7 @@ github_repo: "barkle2.github.io"
 # Optional
 
 # Should there be feedback buttons at the bottom of pages?
-feedback: true
+feedback: false
 
 # Link to a privacy policy in footer, uncomment and define if wanted
 # privacy: https://domain.com/privacy

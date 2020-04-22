@@ -1,7 +1,9 @@
 ---
+layout: post
 title: "Test 테스트"
 date: 2020-04-19
-categories: jekyll update
+categories: 
+ - Computer Programming
 badges:
  - type: primary
    tag: primary-badge

@@ -1,10 +1,27 @@
 - title: Category
   url: docs
   links:
+    - title: "IT Concepts"
+      url: "it_concepts"
+    - title: "Computer Programming"
+      url: "com_programming"
+    - title: "Use Cases of IT Technology"
+      url: "use_cases"
+    - title: "Employment and Labor Policy"
+      url: "el_policy"
     - title: "News"
-      url: "news"
+      url: "news"      
     - title: "About"
       url: "about"    
+    - title: "Extras"
+      url: "docs/extras"
+      children:
+        - title: Tips for Beginner
+          url: "docs/extras/tips"
+        - title: Quizzes
+          url: "docs/extras/example-quiz"
+        - title: Tags Page
+          url: "tags"
     - title: "Getting Started"
       url: "docs/getting-started"
       children:
@@ -14,10 +31,3 @@
           url: "docs/getting-started#development"
         - title: Customization
           url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
-      children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"
