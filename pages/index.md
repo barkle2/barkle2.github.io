@@ -28,6 +28,10 @@ EL 아카데미는 크게 5가지 카테고리로 구성됩니다.
  
 추가로 다뤘으면 좋겠다고 생각하는 주제가 있으면 [이메일](mailto:labor.barkle@gmail.com)을 보내주시거나, [깃허브 게시판]({{ site.repo }}/issues)에 글을 남겨주십시오.
 
+<br>
+---
+<br>
+
 # Welcome to EL Academy
 
 EL Academy aims to create a better employment and labor policy based on Information Technology.  
