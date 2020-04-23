@@ -13,16 +13,17 @@ permalink: /docs/
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <h5 class="category-head">{{ category_name }}</h5>
+    <h4 class="category-head">{{ category_name }}</h4>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <p><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></p>
-    </article>
+    <li class="archive-item">
+      {{ post.date | date: "%b %-d, %Y" }}: <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+    </li>
     {% endfor %}
   </div>
 {% endfor %}
 </div>
+
 
 
 <div class="section-index">
