@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Documentation
+title: 전체 보기
 permalink: /docs/
 ---
 
-# Documentation1
-
-Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
-particular page.
+# 전체 보기
 
 <div id="archives">
 {% for category in site.categories %}
@@ -16,11 +13,11 @@ particular page.
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <h3 class="category-head">{{ category_name }}</h3>
+    <h5 class="category-head">{{ category_name }}</h5>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      <p><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></p>
     </article>
     {% endfor %}
   </div>
