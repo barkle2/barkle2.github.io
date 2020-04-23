@@ -50,4 +50,4 @@ EL Academy is divided into 5 categories.
  - **Employment and Labor Policy** Good employment and labor policies are needed to increase quality jobs.  
  - **Other** Information on various educational materials, recommended books, reference sites, etc.  
  
-If you have a topic that you would like to see further, please send me an email [mailto: labor.barkle@gmail.com], or leave a post on [GitHub Bulletin Board] ({{site.repo}} / issues).
+If you have a topic that you would like to see further, please send me an [email](mailto: labor.barkle@gmail.com), or leave a post on [GitHub Bulletin Board]({{ site.repo }}/issues).
