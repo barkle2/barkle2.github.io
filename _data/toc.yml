@@ -1,26 +1,26 @@
-- title: Category
+- title: EL Academy
   url: docs
   links:
-    - title: "IT Concepts"
+    - title: "IT 개념들"
       url: "it_concepts"
-    - title: "Computer Programming"
-      url: "com_programming"
-    - title: "Use Cases of IT Technology"
+    - title: "IT 활용사례"
       url: "use_cases"
-    - title: "Employment and Labor Policy"
+    - title: "컴퓨터 프로그래밍"
+      url: "com_programming"    
+    - title: "일자리정책"
       url: "el_policy"
     - title: "News"
       url: "news"      
     - title: "About"
       url: "about"    
-    - title: "Extras"
+    - title: "기타"
       url: "docs/extras"
       children:
-        - title: Tips for Beginner
+        - title: 교육자료
           url: "docs/extras/tips"
-        - title: Quizzes
+        - title: 추천도서
           url: "docs/extras/example-quiz"
-        - title: Tags Page
+        - title: 관련사이트
           url: "tags"
     - title: "Getting Started"
       url: "docs/getting-started"
