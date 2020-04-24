@@ -84,11 +84,11 @@ excluded_in_search: true
 	}
 
 	window.index = new lunr.Index;
-	idx.field('id');
-	idx.field('title', { boost: 10 });
-	idx.field('author');
-	idx.field('category');
-	idx.field('content');
+	window.index.field('id');
+	window.index.field('title', { boost: 10 });
+	window.index.field('author');
+	window.index.field('category');
+	window.index.field('content');
 
 	var query = decodeURIComponent((getQueryVariable("q") || "").replace(/\+/g, "%20")),
 		searchQueryContainerEl = document.getElementById("search-query-container"),
