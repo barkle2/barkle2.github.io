@@ -11,7 +11,7 @@ IT 분야를 이해하는데 있어 가장 어려운 점 중의 하나가 IT 용
 
 <br>
 
-{% for post in site.categories["IT 개념"].posts limit:10 %}
+{% for post in site.categories[IT 개념].posts limit:10 %}
    <div class="post-preview">
    <h3> <a href="{{ site.baseurl }}{{ post.url }}"><b>{{ post.title }}</b></a> </h3>
    <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span><br>
