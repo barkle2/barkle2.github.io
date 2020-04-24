@@ -1,7 +1,7 @@
 - title: EL Academy
   url: docs
   links:
-    - title: "IT 개념들"
+    - title: "IT 이해하기"
       url: "it_concepts"
     - title: "IT 활용사례"
       url: "use_cases"
