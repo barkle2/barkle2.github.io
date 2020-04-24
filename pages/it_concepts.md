@@ -18,7 +18,7 @@ For site changes, see the <a href="https://github.com/{{ site.github_user }}/{{ 
    {{ post.content | split:'<!--more-->' | first }}
    {% if post.content contains '<!--more-->' %}
       <a href="{{ site.baseurl }}{{ post.url }}">read more</a>
-   {% endif %} 
+   {% endif %}
    </div>
    <hr>
 {% endfor %}
