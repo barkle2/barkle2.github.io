@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "알기쉬운 IT 개념: Machine Learning"
-date: 2020-04-24 8:00:00 -0900
+date: 2020-04-24 08:00:00 -0900
 categories: 
  - IT 개념
 badges:
@@ -9,7 +9,8 @@ badges:
    tag: advanced concept
 ---
 
-기존의 방법으로는 빅데이터를 분석하기 어렵습니다. 기계학습이 필요합니다.
+기존의 방법으로는 빅데이터를 분석하기 어렵습니다.  
+머신러닝(Machine Learning, 기계학습)이 필요합니다.
 
 <!--more-->
 
