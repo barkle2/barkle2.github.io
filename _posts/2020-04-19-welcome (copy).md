@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test 테스트"
+title: "Test 테스트1"
 date: 2020-04-19
 categories: 
  - Computer Programming
