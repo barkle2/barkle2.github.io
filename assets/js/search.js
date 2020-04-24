@@ -83,12 +83,13 @@ excluded_in_search: true
 		}
 	}
 
-	window.index = new lunr.Index;
-	window.index.field('id');
-	window.index.field('title', { boost: 10 });
-	window.index.field('author');
-	window.index.field('category');
-	window.index.field('content');
+	window.index = lunr(function () {
+		this.field('id');
+      		this.field('title', { boost: 10 });
+		this.field('author');
+      		this.field('category');
+      		this.field('content');
+    	});
 
 	var query = decodeURIComponent((getQueryVariable("q") || "").replace(/\+/g, "%20")),
 		searchQueryContainerEl = document.getElementById("search-query-container"),
