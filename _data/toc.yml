@@ -2,7 +2,7 @@
   url: docs
   links:
     - title: "IT 이해하기"
-      url: "it_concepts"
+      url: "understand_it"
     - title: "IT 활용사례"
       url: "use_cases"
     - title: "컴퓨터 프로그래밍"
