@@ -3,10 +3,11 @@ title: IT Concepts
 permalink: /it_concepts/
 ---
 
-# IT Concepts
+# IT 개념 
 
-<p>Subscribe with <a href="{{ site.baseurl }}/feed.xml">RSS</a> to keep up with the latest news.
-For site changes, see the <a href="https://github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/CHANGELOG.md">changelog</a> kept with the code base.</p>
+IT 분야를 이해하는데 있어 가장 어려운 점 중의 하나가 IT 용어의 개념을 이해하는 것입니다.
+그렇지만 실제 IT 분야 종사자들도 수많은 IT 용어의 개념을 정확하게 알기는 어렵습니다. 업무를 하는 과정에서 점차 알아가는 경우가 더 많습니다.
+우리도 이 설명 내용을 기초로 각자가 점차 개념을 다듬어 나갈 수 있도록 가능한 쉽게 설명하려고 노력하였습니다.
 
 <br>
 
