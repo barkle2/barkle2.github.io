@@ -65,6 +65,9 @@ permalink: /:year/:title/
 markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
+# This will require each of these gems automatically.
+plugins: [jekyll-youtube]
+
 # Collections
 collections:
   docs:
