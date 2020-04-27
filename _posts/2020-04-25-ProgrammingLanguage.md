@@ -27,4 +27,4 @@ badges:
 - 무엇을 하고 싶은가에 따라 달라집니다. 사람들이 많이 찾아오는 웹사이트를 만들어 보고 싶다면 HTML, CSS, Javascript, PHP 등을 배워야 하고, 데이터를 가공·분석하고 싶다면 SQL, R 등을 배워야 합니다, 응용 프로그램을 만들고 싶다면 Python, Java, C++ 등을 배우는 것이 좋습니다.
 - 그렇지만, Python, R, SQL, HTML 등 많은 사람이 사용하는 언어를 배워두면 어떤 상황에서도 대응하기가 쉬울 거라고 생각합니다.
 
-> [참고자료: 프로그래밍 언어 순위](https://www.tiobe.com/tiobe-index/)
+> [참고자료: 프로그래밍 언어 순위](https://www.tiobe.com/tiobe-index/){: target="_blank"}

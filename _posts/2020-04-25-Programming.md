@@ -25,9 +25,9 @@ badges:
   - 프로그래밍을 못한다면 기본적으로 컴맹이고, 사회적으로 경쟁력이 없을 가능성이 매우 높습니다.
   - 요즘 초등학교부터 프로그래밍(코딩)을 의무적으로 가르치는 데는 그만한 이유가 있습니다.
 
-> [참고 영상: What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)  
-> [참고 영상: 코딩, 소프트웨어 시대 - 조용한 혁명](https://www.youtube.com/watch?v=t346si4gy_M)  
-> [참고 자료: '코딩 vs 프로그래밍' 차이점이 무엇일까?](https://www.codingworldnews.com/article/view/1132)
+> [참고 영상: What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc){: target="_blank"}  
+> [참고 영상: 코딩, 소프트웨어 시대 - 조용한 혁명](https://www.youtube.com/watch?v=t346si4gy_M){: target="_blank"}  
+> [참고 자료: '코딩 vs 프로그래밍' 차이점이 무엇일까?](https://www.codingworldnews.com/article/view/1132){: target="_blank"}
 
 #### **프로그래밍을 배우면 무엇이 좋은가요?**
 - 외국어를 배우는 것과 비슷합니다. 배우려면 시간과 노력이 필요하지만, 일단 배우면 더 많은 기회가 존재합니다.
@@ -37,4 +37,4 @@ badges:
 #### **프로그래밍을 배우려면 어떻게 해야 하나요?**
 - 외국어와 마찬가지로 문법, 단어만 외운다고 해서 배워지는게 아닙니다. 대화를 해보아야 합니다. 대단하지는 않더라도 무언가 동작하는 프로그램을 만들면서 배우는 것이 유일한 방법입니다.
 
-> [참고영상: 프로그래밍 독학할때 자주 하는 실수 5가지](https://www.youtube.com/watch?v=FF6CF8TZIhE)
+> [참고영상: 프로그래밍 독학할때 자주 하는 실수 5가지](https://www.youtube.com/watch?v=FF6CF8TZIhE){: target="_blank"}

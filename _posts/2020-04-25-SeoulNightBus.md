@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "빅데이터 기반 서울시 심야버스 노선 수립 사례"
+title: "빅데이터 기반 서울시 심야버스 노선 수립"
 date: 2020-04-25 07:00:00 +0900
 categories: 
  - IT 활용사례
@@ -23,13 +23,13 @@ badges:
 - 택시 승하차데이터(7일치)
 
 #### **관련 보도 및 참고자료**
-[박원순 시장 '최대치적', 심야버스 성공의 비밀](https://www.asiae.co.kr/article/2013092813114331501)
+[박원순 시장 '최대치적', 심야버스 성공의 비밀](https://www.asiae.co.kr/article/2013092813114331501){: target="_blank"}
 
-[[CUN 파워인터뷰] 서울시민 만족도 1위 '심야버스'는 어떻게 탄생했을까?](https://blog.naver.com/cultureplay2/140202689494)
+[[CUN 파워인터뷰] 서울시민 만족도 1위 '심야버스'는 어떻게 탄생했을까?](https://blog.naver.com/cultureplay2/140202689494){: target="_blank"}
 
-[[이규연의 시시각각] 올빼미가 달리기까지](https://news.joins.com/article/13548754)
+[[이규연의 시시각각] 올빼미가 달리기까지](https://news.joins.com/article/13548754){: target="_blank"}
 
-[서울시, 심야버스노선 어떻게 만드나](https://www.zdnet.co.kr/view/?no=20130702115100)
+[서울시, 심야버스노선 어떻게 만드나](https://www.zdnet.co.kr/view/?no=20130702115100){: target="_blank"}
 
 [[서울시 홈페이지]빅데이터 기반 서울시 심야버스 노선 수립 사례]({{ site.url }}/assets/reference/01_빅데이터_기반_심야버스_노선_수립을_위한_분석(요약본).pdf)
 

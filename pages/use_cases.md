@@ -3,24 +3,20 @@ title: Use Cases of IT Technology
 permalink: /use_cases/
 ---
 
-# Use Cases of IT Technology
+# IT 활용사례
 
-<p>Subscribe with <a href="{{ site.baseurl }}/feed.xml">RSS</a> to keep up with the latest news.
-For site changes, see the <a href="https://github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/CHANGELOG.md">changelog</a> kept with the code base.</p>
+IT를 활용한 정책 사례를 공유하고, 더 나은 정책을 수립하기 위한 아이디어를 고민해 볼 수 있으면 좋겠습니다.
 
 <br>
 
-{% for post in site.posts limit:10 %}
+{% for post in site.categories["IT 활용사례"] limit:10 %}
    <div class="post-preview">
-   <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+   <h3> <a href="{{ site.baseurl }}{{ post.url }}"><b>{{ post.title }}</b></a> </h3>
    <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span><br>
    {% if post.badges %}{% for badge in post.badges %}<span class="badge badge-{{ badge.type }}">{{ badge.tag }}</span>{% endfor %}{% endif %}
    {{ post.content | split:'<!--more-->' | first }}
-   {% if post.content contains '<!--more-->' %}
-      <a href="{{ site.baseurl }}{{ post.url }}">read more</a>
-   {% endif %}
-   </div>
    <hr>
 {% endfor %}
 
 Want to see more? See the <a href="{{ site.baseurl }}/archive/">News Archive</a>.
+

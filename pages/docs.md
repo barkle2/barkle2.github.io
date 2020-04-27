@@ -4,8 +4,6 @@ title: 전체 보기
 permalink: /docs/
 ---
 
-# 전체 보기
-
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
@@ -13,7 +11,7 @@ permalink: /docs/
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <h4 class="category-head">{{ category_name }}</h4>
+    <h3 class="category-head"><b>{{ category_name }}</b></h3>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <li class="archive-item">
@@ -23,8 +21,6 @@ permalink: /docs/
   </div>
 {% endfor %}
 </div>
-
-
 
 <div class="section-index">
     <hr class="panel-line">
