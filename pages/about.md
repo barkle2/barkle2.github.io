@@ -1,5 +1,5 @@
 ---
-title: About
+title: EL 아카데미 소개
 permalink: /about/
 ---
 

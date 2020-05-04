@@ -1,4 +1,4 @@
-- title: EL Academy
+- title: 전체 보기
   url: docs
   links:
     - title: "IT 이해하기"
@@ -7,21 +7,21 @@
       url: "use_cases"
     - title: "컴퓨터 프로그래밍"
       url: "com_programming"    
-    - title: "일자리 정책 관련"
+    - title: "일자리 정책"
       url: "el_policy"
-    - title: "News"
-      url: "news"      
-    - title: "About"
-      url: "about"    
     - title: "기타"
       url: "docs/extras"
       children:
         - title: 교육자료
-          url: "docs/extras/tips"
+          url: "docs/extras/training"
         - title: 추천도서
-          url: "docs/extras/example-quiz"
+          url: "docs/extras/books"
         - title: 관련사이트
-          url: "tags"
+          url: "docs/extras/related_site"
+    - title: "About"
+      url: "about"   
+    - title: "News"
+      url: "news"    
     - title: "Getting Started"
       url: "docs/getting-started"
       children:
