@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "빅데이터 기반 서울시 심야버스 노선 수립"
-date: 2020-04-25 07:00:00 +0900
+date: 2020-04-04 07:00:00 +0900
 categories: 
  - IT 활용사례
 badges:

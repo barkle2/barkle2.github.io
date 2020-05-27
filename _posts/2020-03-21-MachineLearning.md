@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "알기쉬운 IT 용어: Machine Learning"
-date: 2020-04-24 08:00:00 +0900
+date: 2020-03-21 09:00:00 +0900
 categories: 
  - IT 이해하기
 badges:

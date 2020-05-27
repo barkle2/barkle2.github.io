@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "보고서 작성 지시 받는 방법"
-date: 2020-04-28 19:30:00 +0900
+date: 2020-04-19 19:30:00 +0900
 categories: 
  - 교육자료
 badges:

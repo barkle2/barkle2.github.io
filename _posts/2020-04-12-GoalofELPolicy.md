@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "일자리 정책의 목표"
-date: 2020-04-27 21:00:00 +0900
+date: 2020-04-12 21:00:00 +0900
 categories: 
  - 일자리 정책
 badges:

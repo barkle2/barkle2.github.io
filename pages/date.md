@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Date
+title: 날짜별 보기
 permalink: /date/
 ---
-# News Archive by Date
+## **News Archive by Date**
 
-{% for post in site.posts  %}{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+{% for post in site.posts  %}{% capture this_year %}{{ post.date | date: "%Y %b" }}{% endcapture %}{% capture next_year %}{{ post.previous.date | date: "%Y %b" }}{% endcapture %}
 
 {% if forloop.first %}<h2 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}</h2>
 <ul class="c-archives__list">{% endif %}
