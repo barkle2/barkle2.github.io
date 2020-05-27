@@ -18,7 +18,3 @@
           url: "docs/extras/books"
         - title: 관련사이트
           url: "docs/extras/related_site"
-    - title: "EL 아카데미 소개"
-      url: "about"   
-    - title: "날짜별로 보기"
-      url: "news"
