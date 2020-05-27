@@ -1,3 +1,8 @@
+---
+layout: null
+excluded_in_search: true
+---
+  
 (function() {
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
