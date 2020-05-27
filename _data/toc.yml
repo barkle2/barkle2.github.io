@@ -18,16 +18,7 @@
           url: "docs/extras/books"
         - title: 관련사이트
           url: "docs/extras/related_site"
-    - title: "About"
+    - title: "EL 아카데미 소개"
       url: "about"   
-    - title: "News"
-      url: "news"    
-    - title: "Getting Started"
-      url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
+    - title: "날짜별로 보기"
+      url: "news"
