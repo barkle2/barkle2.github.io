@@ -28,7 +28,7 @@ EL 아카데미는 크게 5가지 카테고리로 구성됩니다.
  
 추가로 다뤘으면 좋겠다고 생각하는 주제가 있으면 [이메일](mailto:labor.barkle@gmail.com)을 보내주시거나, [깃허브 게시판](https://github.com/barkle2/barkle2.github.io/issues)에 글을 남겨주십시오.
 
-<span style="color:">
+<span style="color:white">
 ## **설립자: 김동현**
 
 2008년 10월부터 [고용노동부](https://moel.go.kr/)에서 근무 중입니다.   
