@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 날짜별 보기
+title: News Archive by Date
 permalink: /date/
 ---
-## **News Archive by Date**
+## **날짜별 보기**
 
 {% for post in site.posts  %}{% capture this_year %}{{ post.date | date: "%Y %b" }}{% endcapture %}{% capture next_year %}{{ post.previous.date | date: "%Y %b" }}{% endcapture %}
 

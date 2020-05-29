@@ -16,5 +16,5 @@
           url: "docs/extras/training"
         - title: 추천도서
           url: "docs/extras/books"
-        - title: 관련사이트
-          url: "docs/extras/related_site"
+        - title: 참고자료
+          url: "docs/extras/related_data"

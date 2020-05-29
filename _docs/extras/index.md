@@ -9,7 +9,7 @@ tags:
 
 ### [교육자료](training)  
 ### [추천도서](books)  
-### [관련사이트](related-site)  
+### [관련자료](related-data)  
 
 Would you like to see another question type, or another kind of extra? Please
 [open an issue])({{ site.repo }}/issues/new)
