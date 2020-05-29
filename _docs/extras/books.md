@@ -1,63 +1,17 @@
 ---
-title: Quiz
-description: How to add interactive quizzes to your site.
+title: 추천도서
+description: 제가 읽은 책 중에서 추천할만한 책들을 소개해드립니다.
 ---
 
-# Quizzes
+# 추천도서
 
-As of version 0.0.12, mkdocs-jekyll has support for basic quizzes! These are
-intended to help educate your users about the content of your documentation.
-For a quiz, you can add a new file to the folder `_data/quizzes`, and write a 
-questions file based on the format shown in `_data/quizzes/example-quiz.yml`.
-Here is a simple example of a multiple choice question (which can also serve as 
-True/False):
+<br>
 
-```yaml
-title: This is the Quiz Title
-randomized: false
-questions:
-
- - type: "multiple-choice"
-   question: "True or False, Pittsburgh is West of Philadelphia"
-   items:
-    - choice: True
-      correct: true
-    - choice: False
-      correct: false
-   followup: | 
-      The answer is True! Pittsburgh is 304.9 miles West of 
-      Philadelphia, or approximately a car ride of 
-      4 hours and 52 minutes. Buckle up!
-```
-
-The quiz is rendered with a "Show Answer" button below each question, and when
-the user clicks it, any questions that are flagged with `correct: true` will be 
-bolded, and if a followup section is included, it will be displayed.
-See the live example at the end of this page.
-
-## Options
-
-#### Title
-
-If you include a title, it will be rendered at the top of the quiz. This is
-optional - you can leave it out and add it before the include on the page.
-
-#### Random
-
-If you want your questions to be presented randomly, just add randomized: true
-to the data.
-
-
-## Example Quiz
-
-If I want to include the quiz located at `_data/quizzes/example-quiz.yml`, I 
-can do so like this:
-
-```
-{% raw %}{% include quiz.html file='example-quiz' %}{% endraw %}
-```
-
-The rendered quiz is shown here:
-
-
-{% include quiz.html file='example-quiz' %}
+{% for post in site.categories["추천도서"] limit:10 %}
+   <div class="post-preview">
+   <h3> <a href="{{ site.baseurl }}{{ post.url }}"><b>{{ post.title }}</b></a> </h3>
+   <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span><br>
+   {% if post.badges %}{% for badge in post.badges %}<span class="badge badge-{{ badge.type }}">{{ badge.tag }}</span>{% endfor %}{% endif %}
+   {{ post.content | split:'<!--more-->' | first }}
+   <hr>
+{% endfor %}
