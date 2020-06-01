@@ -13,10 +13,10 @@ badges:
 
 <!--more-->
 
-#### **Python(파이썬) 개요**
+#### **Python(파이썬)**
 파이썬은 1991년에 귀도 반 로섬(Guido van Rossum)이라는 사람(지금도 살아있습니다)이 만든 프로그래밍 언어입니다.  
 1989년 크리스마스 주간에 연구실이 닫혀 있어서 심심한 김에 만들기 시작했다고 합니다.  
-파이썬이라는 이름도 자신이 어렸을 때 즐겨보던 TV 프로그램(Monty Python's Flying Circus)에서 따왔습니다.  
+파이썬이라는 이름은 자신이 어렸을 때 즐겨보던 TV 프로그램(Monty Python's Flying Circus)에서 따왔습니다.  
 
 사실 이런 것들은 별로 중요하지 않습니다. 왜 파이썬을 배워야 하는지가 중요합니다.  
 **우리가 파이썬을 배우는 이유는 배우기 가장 쉬운 언어 중의 하나면서도, 그 기능이 강력하기 때문입니다.**  
@@ -25,7 +25,7 @@ badges:
 #### **파이썬을 배우는 방법**
 파이썬을 배우고 싶다면 방법은 정말 많습니다.
 유튜브에서 '파이썬'이라고 검색해보면 정말 많은 무료 강의들을 찾을 수 있습니다.  
-[코세라](https://ko.coursera.org){: target="_blank"}, [유데미](https://udemy.com){: target="_blank"}, [칸아카데미](https://ko.khanacademy.org/){: target="_blank"}, [K-MOOC](https://kmooc.kr){: target="_blank"}, [온라인평생교육원](https://step.or.kr){: target="_blank"} 등 주요 온라인교육플랫폼에도 파이썬 강좌는 빠짐없이 존재합니다.
+[코세라](https://ko.coursera.org){: target="_blank"}, [유데미](https://udemy.com){: target="_blank"}, [칸아카데미](https://ko.khanacademy.org/){: target="_blank"}, [K-MOOC](https://kmooc.kr){: target="_blank"}, [온라인평생교육원](https://step.or.kr){: target="_blank"} 등 주요 온라인교육플랫폼에는 파이썬 강좌가 빠짐없이 존재합니다.
 
 위의 방법 중 하나로 파이썬을 정식으로 배우는 것도 좋지만, 시간이 없는 분들은 제가 만든 '코알못' 영상을 보시는 것도 좋습니다.  
 여러분이 프로그래머를 직업으로 할 것이 아니기 때문에 너무 많은 시간을 투자하실 필요는 없습니다. (그래도 몇 시간 정도는 필요합니다.)
