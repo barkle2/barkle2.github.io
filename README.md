@@ -1,54 +1,31 @@
-# Docsy Jekyll Theme
+## **EL Academy에 오신 것을 환영합니다**
 
-[![CircleCI](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master)
-<a href="https://jekyll-themes.com/docsy-jekyll/">
-    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+EL Academy는 고용노동부 직원을 위한 비공식 학습페이지 입니다.
+EL Academy는 정보기술(Infomation Technology)을 활용하여 더 나은 일자리 정책을 만드는 것을 목표로 합니다.  
+무언가를 개선하기 위해서 필요한 것은 같은 목표를 가진 동료들을 만들고, 함께 힘을 합해서 과제를 해결해나가는 것입니다.  
+EL Academy가 그러한 과정의 첫걸음이 되었으면 좋겠습니다.  
 
-![https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png](https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png)
+## **EL Academy 목표**
 
-This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
-on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
-native deployment on GitHub pages. The original [Apache License](https://github.com/vsoch/docsy-jekyll/blob/master/LICENSE) is included.
+1. 정보기술을 기반으로 한 "데이터 중심 행정"이 무엇이고, 왜 중요한지에 대해 이해합니다.  
+2. 정보기술 관련 주요 개념을 이해하고, 정보기술 활용 사례를 공유합니다.  
+3. 일자리 정책의 발전에 기여하고, 여러분 개인의 업무 역량을 높입니다.  
 
-## Changes
+## **EL Academy 구성**
 
-The site is intended for purely documentation, so while the front page banner
-is useful for business or similar, this author (@vsoch) preferred to have
-the main site page go directly to the Documentation view. Posts
-are still provided via a feed.
+EL 아카데미는 크게 5가지 카테고리로 구성됩니다.  
 
-## Usage
+ - **IT 개념들** 빅데이터, 인공지능, 데이터베이스, 플랫폼 등과 같은 정보기술의 주요 개념들을 소개합니다.  
+ - **IT 활용 사례** 국내외에서 정보기술을 활용한 서비스 제공 사례를 알아봅니다.  
+ - **컴퓨터 프로그래밍** 개념을 제대로 이해하고, 사례를 바탕으로 업무를 개선하려면 컴퓨터 프로그래밍이 필요합니다.  
+ - **일자리 정책** 양질의 일자리를 늘리기 위해서는 좋은 일자리 정책이 필요합니다.  
+ - **기타** 각종 교육자료, 추천도서, 참고사이트 등을 안내합니다.  
+ 
+추가로 다뤘으면 좋겠다고 생각하는 주제가 있으면 [이메일](mailto:labor.barkle@gmail.com)을 보내주시거나, [깃허브 게시판](https://github.com/barkle2/barkle2.github.io/issues)에 글을 남겨주십시오.
 
-### 1. Get the code
+## **barkle**
 
-You can clone the repository right to where you want to host the docs:
-
-```bash
-git clone https://github.com/vsoch/docsy-jekyll.git docs
-cd docs
-```
-
-### 2. Customize
-
-To edit configuration values, customize the [_config.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_config.yml).
-To add pages, write them into the [pages](https://github.com/vsoch/docsy-jekyll/blob/master/pages) folder. 
-You define urls based on the `permalink` attribute in your pages,
-and then add them to the navigation by adding to the content of [_data/toc.myl](https://github.com/vsoch/docsy-jekyll/blob/master/_data/toc.yml).
-The top navigation is controlled by [_data/navigation.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_data/navigation.yml)
-
-### 3. Options
-
-Most of the configuration values in the [_config.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_config.yml) are self explanatory,
-and for more details, see the [getting started page](https://vsoch.github.io/docsy-jekyll/docs/getting-started)
-rendered on the site.
-
-### 4. Serve
-
-Depending on how you installed jekyll:
-
-```bash
-jekyll serve
-# or
-bundle exec jekyll serve
-```
+2008년 10월부터 [고용노동부](https://moel.go.kr/)에서 근무 중입니다.   
+데이터 기반 행정이 정착된다면 고용노동부가 좀 더 효율적이고, 합리적으로 일하면서 성과를 낼 수 있다고 생각합니다.   
+데이터 기반 행정의 정착을 앞당기기 위한 방법의 하나로 IT 기술과 컴퓨터 프로그래밍의 기본 개념을 소개하고,   
+그것을 이해하고 활용하는 것이 고용노동정책 발전에 매우 중요하다는 공감대를 형성하기 위해 노력하고 있습니다.
