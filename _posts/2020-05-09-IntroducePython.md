@@ -31,6 +31,7 @@ badges:
 여러분이 프로그래머를 직업으로 할 것이 아니기 때문에 너무 많은 시간을 투자하실 필요는 없습니다. (그래도 몇 시간 정도는 필요합니다.)
 
 #### **계산기 프로그램 만들기**
+파이썬을 배우기 위해 제가 선택한 첫 번째 과제는 파이썬으로 계산기 프로그램을 만드는 것입니다.
 왜 계산기를 만드냐고요? 짧은 시간에 만들기에 적합한 프로그램이기 때문입니다.  
 실제로 쓸 수 있는 프로그램을 처음부터 끝까지 만들어보면 프로그램에 대해 많은 것을 알 수 있습니다.  
 
@@ -42,3 +43,8 @@ badges:
 > [파이썬으로 계산기 만들기 2/3 (19분)](https://www.youtube.com/watch?v=zLytuhDT68s&t=4s){: target="_blank"}  
 > [파이썬으로 계산기 만들기 3/3 (53분)](https://www.youtube.com/watch?v=gloJLtpDiDE&t=3s){: target="_blank"}  
 > [다운로드용 완성 코드]({{ site.url }}/assets/reference/CB_CALC.py){: target="_blank"}
+
+이 과제는 이승규 님의 왕초보 파이썬 강좌를 보고 만들었음을 밝힙니다.
+> [왕초보 파이썬6 계산기 만들기 1/3](https://www.youtube.com/watch?v=DXjseu_Oh1o){: target="_blank"}  
+> [왕초보 파이썬7 계산기 만들기 2/3](https://www.youtube.com/watch?v=Vz_4p34u8i0){: target="_blank"}  
+> [왕초보 파이썬8 계산기 만들기 3/3](https://www.youtube.com/watch?v=SGA9gHu7QIk){: target="_blank"}  
