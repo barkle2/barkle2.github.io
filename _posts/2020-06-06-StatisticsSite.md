@@ -27,7 +27,7 @@ badges:
 
 e-나라지표와 한국은행 경제통계도 국가통계포털 만큼은 아니지만 좋은 통계가 많은 사이트입니다.
 
-[고용노동통계](http://laborstat.moel.go.kr/){: target="_blank"}
+[고용노동통계](http://laborstat.moel.go.kr/){: target="_blank"}  
 [한국고용정보원 EIS](https://eis.work.go.kr/index.do){: target="_blank"}
 
 고용노동통계 사이트와 한국고용정보원 EIS는 일자리와 관련된 세부 통계를 찾을 때 유용합니다.
