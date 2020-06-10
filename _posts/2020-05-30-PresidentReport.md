@@ -13,7 +13,7 @@ badges:
 
 <!--more-->
 
-![내 문장]({{ site.url }}/assets/img/PresidentReport.jpg){:width="300px" height="424px"}
+![대통령보고서]({{ site.url }}/assets/img/PresidentReport.jpg){:width="300px" height="424px"}
 
 어느 공무원이나 좋은 보고서를 쓰고 싶지만, 쉽지가 않습니다.
 가장 큰 이유는 보고를 받는 사람의 입장이 아니라 보고를 하는 사람의 입장에서 보고서를 쓰기 때문입니다.
