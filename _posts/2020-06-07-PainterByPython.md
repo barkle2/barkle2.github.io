@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python으로 그림판 만들기"
+title: "[Python] 그림판 만들기"
 date: 2020-06-07 17:00:00 +0900
 categories: 
  - 컴퓨터 프로그래밍
