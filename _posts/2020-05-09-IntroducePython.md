@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 소개 & 계산기 만들기"
+title: "[Python] 소개 & 계산기 만들기"
 date: 2020-05-09 17:00:00 +0900
 categories: 
  - 컴퓨터 프로그래밍
