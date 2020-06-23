@@ -3,7 +3,7 @@ layout: post
 title: "국가일자리정보플랫폼"
 date: 2020-06-20 20:00:00 +0900
 categories: 
- - IT 활용사례
+ - 일자리 정책
 badges:
  - type: success
    tag: 고용 정보 인프라
