@@ -31,8 +31,9 @@ badges:
 
 여기서 멈추지 않고 앞으로 증권사 투자예탁금이나 카드사 자동납부 목록 조회 서비스도 제공할 계획이라고 하는 것을 보니 아직도 발전은 진행중이라고 생각한다.
 
-처음에는 간단한 휴면예금 찾아주기 서비스였지만, 이제는 우리나라의 모든 금융정보를 통합적으로 관리할 수 있는 기반을 갖추는데 기여한 서비스로 거듭났으며, 이런 기반이 있다면 어떤 금융정책이라도 가능할 거라 예상된다. 한마디로 정말 부럽다.
+처음에는 간단한 휴면예금 찾아주기 서비스였지만, 이제는 우리나라의 모든 금융정보를 통합적으로 관리할 수 있는 기반을 갖추는데 기여한 서비스로 거듭났으며, 이런 기반이 있다면 어떤 금융정책이라도 가능할 거라 예상된다. 한마디로 정말 부럽다.      
 
-![[Account Info]({{ site.url }}/assets/img/AccountInfo.png)](https://www.payinfo.or.kr/index.do){: target="_blank"}  
 
-[제2금융권도 계좌이동 및 계좌통합관리서비스 시행]({{ site.url }}/assets/reference/190826_제2금융권도_계좌이동_및_계좌통합관리서비스_시행.pdf){: target="_blank"}
+[![Account Info]({{ site.url }}/assets/img/AccountInfo.png)](https://www.payinfo.or.kr/index.do){: target="_blank"}  
+
+[(보도자료)제2금융권도 계좌이동 및 계좌통합관리서비스 시행]({{ site.url }}/assets/reference/190826_제2금융권도_계좌이동_및_계좌통합관리서비스_시행.pdf){: target="_blank"}
