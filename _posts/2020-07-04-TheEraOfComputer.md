@@ -1,24 +1,17 @@
-This is the era of computer.
+---
+layout: post
+title: "컴퓨터의 시대"
+date: 2020-07-04 09:00:00 +0900
+categories: 
+ - 컴퓨터 프로그래밍
+badges:
+ - type: info
+   tag: Why don't you learn programming?
+---
 
-We do everything on computers.
-When you work, play, buy, watch, or listen, you have to use a computer.
-Also, many of the things we use are also becoming more and more computers. Even things that weren't computers before.
-Now mobile phones, watches, TVs, refrigerators, washing machines, cars, and scales are all computers.
+몇년전에 썼던 고용노동부 코딩 동호회 회원 모집글입니다. 왠지 버리기 아까워서 남겨둡니다.
 
-If someone tells you to work harder, you spend more time in front of the computer.
-In these days, most of the work is done with computers.
-
-To be a more productive and efficient person in this era, you need to be good at handling computers.
-To handle computers well, you need to learn computer programming.
-
-Computer programming is the process by which people and computers communicate. Programming languages ​​are similar to foreign languages.
-It takes a little effort to learn, but learning can bring you a new experience.
-
-If you're reading this now, maybe you don't know computer programming very well. We will be able to manage.
-(Your child's generation won't. That's why it's mandatory to teach programming in elementary school these days.)
-However, if you want to do something meaningful, you should learn computer programming from now on.
-
-If you learn, you will clearly see the difference.
+<!--more-->
 
 지금은 컴퓨터 시대입니다.
 
@@ -41,3 +34,25 @@ If you learn, you will clearly see the difference.
 그렇지만, 뭔가 의미있는 일을 하고 싶다면 지금부터라도 컴퓨터 프로그래밍을 배워야 합니다.
 
 배워보면, 그 차이를 분명히 아실 수 있을 겁니다.
+
+This is the era of computer.
+
+We do everything on computers.
+When you work, play, buy, watch, or listen, you have to use a computer.
+Also, many of the things we use are also becoming more and more computers. Even things that weren't computers before.
+Now mobile phones, watches, TVs, refrigerators, washing machines, cars, and scales are all computers.
+
+If someone tells you to work harder, you spend more time in front of the computer.
+In these days, most of the work is done with computers.
+
+To be a more productive and efficient person in this era, you need to be good at handling computers.
+To handle computers well, you need to learn computer programming.
+
+Computer programming is the process by which people and computers communicate. Programming languages ​​are similar to foreign languages.
+It takes a little effort to learn, but learning can bring you a new experience.
+
+If you're reading this now, maybe you don't know computer programming very well. We will be able to manage.
+(Your child's generation won't. That's why it's mandatory to teach programming in elementary school these days.)
+However, if you want to do something meaningful, you should learn computer programming from now on.
+
+If you learn, you will clearly see the difference.
