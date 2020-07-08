@@ -8,7 +8,7 @@ badges:
  - type: info
    tag: IT System Building Process
  - type: warning
-   tage: 천리길도 한 걸음부터
+   tag: 천리길도 한 걸음부터
 ---
 
 시스템 구축은 크게 3단계(의사결정 - 준비 - 시스템 개발)로 이뤄집니다.  
