@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "일자리정책의 범위"
+title: "일자리정책의 대상"
 date: 2020-07-22 10:00:00 +0900
 categories: 
  - 일자리 정책
