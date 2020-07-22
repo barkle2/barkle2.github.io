@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "근로자와 일하는 사람"
+title: "일자리정책의 범위"
 date: 2020-07-22 10:00:00 +0900
 categories: 
  - 일자리 정책
@@ -8,7 +8,7 @@ badges:
  - type: primary
    tag: 정책의 대상
  - type: info
-   tag: 일하는 사람
+   tag: 근로자 vs 일하는 사람
 ---
 
 일자리 정책의 대상을 어디까지 확대해야할 지 생각해 보았습니다.
