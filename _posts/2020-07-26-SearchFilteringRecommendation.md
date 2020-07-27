@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "정보제공의 방식: 검색, 걸러내기, 추천"
+title: "정보제공의 방식: 검색, 필터링, 추천"
 date: 2020-07-26 10:00:00 +0900
 categories: 
  - IT 이해하기
@@ -8,12 +8,12 @@ badges:
  - type: info
    tag: 검색(Search)
  - type: warning
-   tag: 걸러내기(Filtering)
+   tag: 필터링(Filtering)
  - type: primary
    tag: 추천(Recommendation)
 ---
 
-국민들에게 정보를 제공하는 방식은 크게 검색, 걸러내기, 추천으로 나눌 수 있습니다.
+국민들에게 정보를 제공하는 방식은 크게 검색, 필터링, 추천으로 나눌 수 있습니다.
 
 <!--more-->
 
