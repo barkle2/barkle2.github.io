@@ -13,10 +13,11 @@ badges:
 
 <!--more-->
 
-![JTI]({{ site.url }}/assets/img/JTI.jpg){:width="300px" height="424px"}
-![JTI_pic]({{ site.url }}/assets/img/JTI_pic.jpg){:width="300px" height="424px"}
+![JTI]({{ site.url }}/assets/img/JTI.jpg){:width="300px" height="424px"}  
 
 전태일은...
+
+![JTI_pic]({{ site.url }}/assets/img/JTI_pic.jpg){:width="300px" height="424px"}  
 
 1948년 대구에서 태어났다.  
 1960년 남대문 초등학교, 1963년 청옥고등공민학교를 잠깐씩 다녔지만 어려운 가정환경으로 학업을 계속 할 수 없어 신문팔이, 구두닦이, 손수레 뒤밀이, 삼발이 장사 등을 하며 어린 시절을 보냈다.  
