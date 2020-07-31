@@ -13,7 +13,8 @@ badges:
 
 <!--more-->
 
-![JTI]({{ site.url }}/assets/img/JTI.jpg){:width="300px" height="424px"}  
+![JTI]({{ site.url }}/assets/img/JTI.jpg){:width="300px" height="424px"}
+![JTI_pic]({{ site.url }}/assets/img/JTI_pic.jpg){:width="300px" height="424px"}
 
 전태일은...
 
@@ -32,7 +33,15 @@ badges:
 > 이런 순진하고 사랑스러운 동심들을 사회생활이라는 웅장한 무대는 가장 메마른 면과 가장 비참한 곳만을 보여주고 있습니다. 메마른 인정을 합리화시키는 기업주와 모든 생활 형식에서 인간적인 요소를 말살 당하고 오직 고삐에 메인 금수처럼 주린 창자를 채우기 위하여 끌려다니고 있습니다.  
 > 곧 그렇게 하는 것이 현 사회에서 극심한 생존경쟁에서 승리한다고 가르칩니다. 기업주들은 어떠합니까? 아무리 많은 폭리를 취하고도 조그만한 양심의 가책을 느끼지 않습니다. 합법적이 아닌 생산공들의 피와 땀을 갈취합니다. 그런데 왜 현 사회는 그것을 알면서도 묵인하는지 저의 좁은 소견은 알지를 못합니다.  
 > 내심 존경하시는 근로감독관님. 이 모든 문제를 한시 바삐 선처 있으시기를 바랍니다.  
-> 1969. 12/19일 전태일
+> 1969 . 12/19일 전태일
 
-전태일에 관한 여러 영상자료들이 있는데, 그 중 **아름다운 청년, 전태일**이라는 영화가 가장 유명합니다.
-[아름다운 청년, 전태일](https://www.youtube.com/watch?v=tTvVq_aeC6g&t=525s)
+전태일에 관한 여러 영상자료들이 있는데, 그 중 **아름다운 청년, 전태일**이라는 영화가 가장 유명합니다.  
+[아름다운 청년, 전태일](https://www.youtube.com/watch?v=tTvVq_aeC6g&t=525s){:target="_blank"}  
+
+![JTI_movie]({{ site.url }}/assets/img/JTI_movie.jpg){:width="300px" height="424px"}  
+
+전태일 재단에서 만든 다큐멘터리  
+[사랑을 시작하다 - 전태일](https://www.youtube.com/watch?v=PXK55Cl_KV0){:target="_blank"}  
+
+지식채널e - 평화시장 재단사  
+[지식채널e - 평화시장 재단사](https://www.youtube.com/watch?v=kmSRRSCCNcs){:target="_blank"}  
