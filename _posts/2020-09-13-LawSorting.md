@@ -3,7 +3,7 @@ layout: post
 title: "부처별 소관법률 현황"
 date: 2020-09-13 10:00:00 +0930
 categories: 
- - Programming
+ - 프로그래밍
 badges:
  - type: primary
    tag: Simple Question
