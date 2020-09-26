@@ -60,4 +60,4 @@ STEP은 온라인 기반의 평생직업능력개발 학습플랫폼 입니다.
 [Udemy](https://www.udemy.com/ko/){: target="_blank"}  
 [Khan Academy](https://ko.khanacademy.org/){: target="_blank"}  
 
-이 외에도 유튜브나 제가 미처 소개하지 못한 사이트에 좋은 자료는 얼마든지 있습니다.  
+이 외에도 유튜브나 제가 미처 소개하지 못한 사이트에 좋은 자료는 얼마든지 있습니다. 더 나은 사람이 될 수 있는 기회를 꼭 잡으세요!
