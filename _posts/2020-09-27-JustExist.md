@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "시스템의 기능 이해하기"
-date: 2020-09-27 09:00:00 +0930
+date: 2020-09-27 10:00:00 +0930
 categories: 
  - IT 이해하기
 badges:
