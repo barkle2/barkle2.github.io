@@ -17,6 +17,3 @@ IT를 활용한 정책 사례를 공유하고, 더 나은 정책을 수립하기
    {{ post.content | split:'<!--more-->' | first }}
    <hr>
 {% endfor %}
-
-Want to see more? See the <a href="{{ site.baseurl }}/archive/">News Archive</a>.
-

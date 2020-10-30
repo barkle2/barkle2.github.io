@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 환영합니다
+title: 전체보기
 permalink: /
 ---
 

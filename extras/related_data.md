@@ -5,6 +5,8 @@ description: 학습과 업무에 도움이 되는 자료들입니다.
 
 # 참고자료
 
+학습과 업무에 도움이 되는 자료들을 모아두었습니다.
+
 <br>
 
 {% for post in site.categories["참고자료"] limit:10 %}

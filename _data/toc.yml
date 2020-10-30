@@ -1,5 +1,5 @@
 - title: 전체 보기
-  url: docs
+  url: ./
   links:
     - title: "IT 이해하기"
       url: "understand_it"
@@ -10,11 +10,11 @@
     - title: "일자리 정책"
       url: "el_policy"
     - title: "기타"
-      url: "docs/extras"
+      url: "extras"
       children:
         - title: 교육자료
-          url: "docs/extras/training"
+          url: "extras/training"
         - title: 추천도서
-          url: "docs/extras/books"
+          url: "extras/books"
         - title: 참고자료
-          url: "docs/extras/related_data"
+          url: "extras/related_data"

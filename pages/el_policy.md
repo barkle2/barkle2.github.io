@@ -17,5 +17,3 @@ permalink: /el_policy/
    {{ post.content | split:'<!--more-->' | first }}
    <hr>
 {% endfor %}
-
-Want to see more? See the <a href="{{ site.baseurl }}/archive/">News Archive</a>.
