@@ -31,5 +31,5 @@ badges:
 책의 내용이 좋아서 주요 내용을 기록해보았습니다.   
 [노동의 시대는 끝났다]({{ site.url }}/assets/reference/노동의시대는끝났다.pdf){: target="_blank"}  
 
-책의 내용과 일맥상통하는 정재승 박사의 인터뷰가 있어 링크합니다.  
+책의 내용과 일맥상통하는 정재승 박사의 인터뷰가 있어 링크합니다. 2016년 인터뷰이지만, 아직도 충분히 참고할 가치가 있습니다.   
 [정재승 교수 “인공지능의 시대, 일자리 확 줄어든다”](https://www.sisain.co.kr/news/articleView.html?idxno=25556){: target="_blank"}
