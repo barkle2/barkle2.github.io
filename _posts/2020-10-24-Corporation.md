@@ -43,6 +43,7 @@ badges:
 - VBA는 비주얼 베이직(Visual Basic)이라는 언어를 오피스 프로그램에서도 사용할 수 있도록 만든 프로그래밍 언어입니다. VBA를 사용하면 오피스 프로그램(워드, 엑셀, PPT 등)에서도 비주얼 베이직 프로그램을 작성하고 실행할 수 있습니다.
   - 엑셀 프로그램에서 Alt+F11 을 누르면 VBA 개발화면이 열리고, VB 문법으로 프로그램을 작성할 수 있습니다.
   - 완성된 프로그램은 다음과 같이 동작합니다.
+    
 ![기업이름정리]({{ site.url }}/assets/img/CompanyName.png){:width="1931px" height="1031px"}  
 
-["기업이름정리.xlsm"]({{ site.url }}/assets/reference/기업이름정리.xlsm)  
+[기업이름정리.xlsm]({{ site.url }}/assets/reference/기업이름정리.xlsm)  
