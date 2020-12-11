@@ -45,4 +45,4 @@ badges:
   - 완성된 프로그램은 다음과 같이 동작합니다.
 ![기업이름정리]({{ site.url }}/assets/img/CompanyName.png)  
 
-[기업이름정리.xlsm]({{ site.url }}/assets/reference/기업이름정리.xlsm)  
+["기업이름정리.xlsm"]({{ site.url }}/assets/reference/기업이름정리.xlsm)  
