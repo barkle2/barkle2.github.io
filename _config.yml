@@ -34,6 +34,8 @@ github_user: "barkle2"
 github_repo: "barkle2.github.io"
 
 # Optional
+plugins:
+  - jekyll-sitemap
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: false
