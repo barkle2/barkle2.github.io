@@ -19,8 +19,6 @@ email: labor.barkle@gmail.com
 author: Dong-Hyeon Kim
 description: 
   고용노동부 동료들에게 IT기술과 컴퓨터 프로그래밍을 소개하기 위한 깃허브  
-  Github to introduce IT technology and computer programming to colleagues in the Ministry of Employment and Labor
-  
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
