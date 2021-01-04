@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Python] 기초 1: 변수"
+title: "[Python] 기초 개념: 변수"
 date: 2020-10-31 11:00:00 +0930
 categories: 
  - 컴퓨터 프로그래밍
@@ -15,4 +15,34 @@ badges:
 
 <!--more-->
 
-[변수 설명]({{ site.url }}/assets/reference/Python_Basic_Variable.ipynb){: target="_blank"} 
+### 변수(variable)
+
+- 프로그래밍에 있어 가장 기초가 되는 개념이 무엇이냐고 물어본다면, 저는 **변수(variable)**라고 하겠습니다.
+- 변수는 값(value)을 저장합니다.
+
+'''python
+# name 이라는 변수에 '김동현' 이라는 값을 저장
+name = '김동현'
+# age 라는 변수에 42 라는 값을 저장
+age = 42
+# isMarried 라는 변수에 True 값을 저장
+isMarried = True
+'''
+
+- 저장된 값은 다시 불러서 사용할 수 있습니다.
+
+'''python
+print(name)
+print(age)
+print(isMarried)
+'''
+
+> 김동현
+> 42
+> True
+
+
+
+
+
+[Python_Basic_Variable.ipynb]({{ site.url }}/assets/reference/Python_Basic_Variable.ipynb)
