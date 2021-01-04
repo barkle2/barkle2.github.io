@@ -80,6 +80,6 @@ for i in range(1,10):
   print(number, "*", i, "=", int(number)*i)
 ```
 
-위 프로그램들을 실행해보려면 아래 파일을 [Google Colab] 사이트에서 불러오면 됩니다.
+위 프로그램들을 실행해보려면 아래 파일을 [Google Colab](colab.research.google.com){:target='_blank'} 사이트에서 불러오면 됩니다.
 
 [Python_Basic_Variable.ipynb]({{ site.url }}/assets/reference/Python_Basic_Variable.ipynb)
