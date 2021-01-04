@@ -30,6 +30,7 @@ isMarried = True
 ```
 
 - 변수에 값이 저장되면 변수를 통해 값을 사용할 수 있습니다.
+
 ```python
 print(name)
 print(age)
