@@ -36,10 +36,10 @@ print(name)
 print(age)
 print(isMarried)
 ```
-
-> 김동현  
-> 42  
-> True
+< 실행결과 >  
+김동현  
+42  
+True
 
 - 여러 개의 값을 다양한 형태로 저장할 수도 있습니다.
 1. 리스트
@@ -67,11 +67,11 @@ friend_dict_list = [
 df = pd.DataFrame(friend_dict_list)
 df
 ```
-
-> | | name | age | job |
-> |---|---|:---:|---:|
-> | 0	| John	| 25	| student |
-> | 1 |	Nate	| 30	| teacher |
+< 실행결과 >  
+| | name | age | job |
+|---|---|:---:|---:|
+| 0	| John	| 25	| student |
+| 1 |	Nate	| 30	| teacher |
 
 ### 변수의 의미
 - 변수의 종류나 형태, 사용방법을 외우는 것도 중요하지만, 더 중요한 것은 변수가 어떤 역할을 하는지 파악하는 것입니다.
@@ -89,15 +89,15 @@ number = input('숫자를 입력하시오:')
 for i in range(1,10):
   print(number, "*", i, "=", int(number)*i)
 ```
-> 숫자를 입력하시오:7
-> 7 * 1 = 7
-> 7 * 2 = 14
-> 7 * 3 = 21
-> 7 * 4 = 28
-> 7 * 5 = 35
-> 7 * 6 = 42
-> 7 * 7 = 49
-> 7 * 8 = 56
+> 숫자를 입력하시오:7  
+> 7 * 1 = 7  
+> 7 * 2 = 14  
+> 7 * 3 = 21  
+> 7 * 4 = 28  
+> 7 * 5 = 35  
+> 7 * 6 = 42  
+> 7 * 7 = 49  
+> 7 * 8 = 56  
 > 7 * 9 = 63
 
 [Python_Basic_Variable.ipynb]({{ site.url }}/assets/reference/Python_Basic_Variable.ipynb)
