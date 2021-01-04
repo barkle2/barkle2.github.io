@@ -22,26 +22,21 @@ badges:
 
 ```python
 # name 이라는 변수에 '김동현' 이라는 값을 저장
-name = '김동현'
+name = 'barkle'
 # age 라는 변수에 42 라는 값을 저장
 age = 42
 # isMarried 라는 변수에 True 값을 저장
 isMarried = True
 ```
 
-- 저장된 값은 다시 불러서 사용할 수 있습니다.
-
+- 변수에 값이 저장되면 변수를 통해 값을 사용할 수 있습니다.
 ```python
 print(name)
 print(age)
 print(isMarried)
 ```
-< 실행결과 >  
-김동현  
-42  
-True
 
-- 여러 개의 값을 다양한 형태로 저장할 수도 있습니다.
+- 여러 값들을 저장할 수 있는 변수들도 있습니다.
 1. 리스트
 2. 튜플
 3. 딕셔너리
@@ -55,7 +50,7 @@ actor_tuple = ('현빈', '손예진', '원빈', '이나영', '장동건', '고�
 sportstar_dictionary = { '축구':'손흥민', '야구':'류현진', '배구':'김연경', '농구':'김선형'}
 ```
 
-- 변수의 형태를 직접 정의하거나, 다른 라이브러리에서 만든 변수를 사용하는 것도 가능합니다.
+- 나아가 변수의 형태를 직접 정의하거나, 다른 라이브러리에서 만든 변수를 사용하는 것도 가능합니다.
 
 ```python
 import pandas as pd
@@ -67,11 +62,6 @@ friend_dict_list = [
 df = pd.DataFrame(friend_dict_list)
 df
 ```
-< 실행결과 >  
-| | name | age | job |
-|---|---|:---:|---:|
-| 0	| John	| 25	| student |
-| 1 |	Nate	| 30	| teacher |
 
 ### 변수의 의미
 - 변수의 종류나 형태, 사용방법을 외우는 것도 중요하지만, 더 중요한 것은 변수가 어떤 역할을 하는지 파악하는 것입니다.
@@ -89,15 +79,7 @@ number = input('숫자를 입력하시오:')
 for i in range(1,10):
   print(number, "*", i, "=", int(number)*i)
 ```
-> 숫자를 입력하시오:7  
-> 7 * 1 = 7  
-> 7 * 2 = 14  
-> 7 * 3 = 21  
-> 7 * 4 = 28  
-> 7 * 5 = 35  
-> 7 * 6 = 42  
-> 7 * 7 = 49  
-> 7 * 8 = 56  
-> 7 * 9 = 63
+
+위 프로그램들을 실행해보려면 아래 파일을 [Google Colab] 사이트에서 불러오면 됩니다.
 
 [Python_Basic_Variable.ipynb]({{ site.url }}/assets/reference/Python_Basic_Variable.ipynb)
