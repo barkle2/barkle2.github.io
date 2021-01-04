@@ -15,4 +15,4 @@ badges:
 
 <!--more-->
 
-[변수]({{ site.url }}/assets/Python_Basic_Variable.ipynb){ target:'_blank' }
+[변수 설명]({{ site.url }}/assets/Python_Basic_Variable.ipynb){: target="_blank"} 
