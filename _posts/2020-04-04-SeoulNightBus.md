@@ -23,7 +23,7 @@ badges:
 - 택시 승하차데이터(7일치)
 
 #### **관련 보도 및 참고자료**
-[박원순 시장 '최대치적', 심야버스 성공의 비밀](https://www.asiae.co.kr/article/2013092813114331501){: target="_blank"}
+[박원순 시장 '최대치적', 심야버스 성공의 비밀](https://news.v.daum.net/v/20130928131905488){: target="_blank"}
 
 [[CUN 파워인터뷰] 서울시민 만족도 1위 '심야버스'는 어떻게 탄생했을까?](https://blog.naver.com/cultureplay2/140202689494){: target="_blank"}
 
