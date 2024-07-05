@@ -27,7 +27,7 @@ badges:
 
 - 라이브러리가 좋은 이유는 다른 훌륭한 프로그래머들이 만든 라이브러리를 자유롭게 사용할 수 있기 때문입니다.
 - 천재 프로그래머가 만든 라이브러리를 사용하면 적은 노력으로 훌륭한 프로그램을 만들 수 있습니다.
-- 파이썬에서 자주 사용되는 라이브러리에는 [tensorflow]](https://www.tensorflow.org/?hl=ko){:target='_blank'}, [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){:target='_blank'}, [selenium](https://www.selenium.dev/){:target='_blank'}, [numpy](https://numpy.org/){:target='_blank'}, [pandas](https://pandas.pydata.org/){:target='_blank'}, [pyQt](https://www.riverbankcomputing.com/static/Docs/PyQt4/){:target='_blank'}, [plotly](https://plotly.com/python/){:target='_blank'}, [seaborn](https://seaborn.pydata.org/){:target='_blank'}, [matplotLib](https://matplotlib.org/){:target='_blank'}, [openpyxl](https://openpyxl.readthedocs.io/en/stable/){:target='_blank'}, [opencv](https://opencv.org/){:target='_blank'} 등이 있습니다.
+- 파이썬에서 자주 사용되는 라이브러리에는 [tensorflow](https://www.tensorflow.org/?hl=ko){:target='_blank'}, [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){:target='_blank'}, [selenium](https://www.selenium.dev/){:target='_blank'}, [numpy](https://numpy.org/){:target='_blank'}, [pandas](https://pandas.pydata.org/){:target='_blank'}, [pyQt](https://www.riverbankcomputing.com/static/Docs/PyQt4/){:target='_blank'}, [plotly](https://plotly.com/python/){:target='_blank'}, [seaborn](https://seaborn.pydata.org/){:target='_blank'}, [matplotLib](https://matplotlib.org/){:target='_blank'}, [openpyxl](https://openpyxl.readthedocs.io/en/stable/){:target='_blank'}, [opencv](https://opencv.org/){:target='_blank'} 등이 있습니다.
   - 유명한 라이브러리의 경우 별도로 소개하는 책이 나오기도 합니다.
   - 라이브러리의 사용법을 알기 위해서는 해당 라이브러리의 Document를 읽는 것이 가장 좋습니다.(저자 직강!)
 - 라이브러리는 누구나 무료로 사용할 수 있습니다.
